@@ -1,6 +1,6 @@
 # About macro_dbg
 Print "debug" messages by calling macro_dbg("some text and parameters for printf function").  
-If macro_dbg_enable is defined it works, else macro_dbg(...) does nothing.
+If macro_dbg_enable is defined it works, else macro_dbg(...) does nothing.  
 https://github.com/sallecta/macro_dbg
 
 ## Usage
