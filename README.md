@@ -21,7 +21,7 @@ macro_dbg("Hello, macro_dbg!\n");
 ```
 
 ### Limitations (unexpected behaviour in compare of printf() function)
-New line chars at the beggining of macro_dbg() arguments devides output line to 2 lines separated by given number of "\n"s.
+New line chars at the beggining of macro_dbg() arguments devides output line to 2 lines separated by given number of "\n"s.  
 Example:
 ```c
 macro_dbg("\n some text\n");
