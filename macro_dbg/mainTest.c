@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #define macro_dbg_enable
-#include "macro_dbg.h"
+#include "macro_dbg/macro_dbg.h"
 
 int main()
 {
